@@ -3,7 +3,7 @@
   "name": "Too4YouAll Movie",
   "description": "Um add-on simples para o Stremio com catálogos de filmes e séries.",
   "version": "1.0.0",
-  "types": ["movie", "serie", TV],
+  "types": ["movie", "serie", "TV"],
   "resources": ["catalog", "stream"],
   "idPrefixes": ["tt"],
   "catalogs": [
