@@ -3,9 +3,9 @@
     {
       "id": "tt0000001",
       "type": "movie",
-      "name": "Your Honor",
+      "name": "Filme Exemplo",
       "poster": "https://m.media-amazon.com/images/M/MV5BMzI5MGIyYjYtOWRhOS00MmU3LThhNDgtYWEzNzAzZGUzZTY2XkEyXkFqcGc@._V1_.jpg",
-      "description": "Michael's solution to his blackmail problem",
+      "description": "Um filme de exemplo fornecido pelo add-on Too4YouAll.",
       "releaseInfo": "2025",
       "genres": ["Ação"]
     }
