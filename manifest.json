@@ -11,6 +11,11 @@
       "type": "movie",
       "id": "too4youall-movies",
       "name": "Filmes JD"
+    },
+    {
+      "type": "series",
+      "id": "too4youall-movies",
+      "name": "Series JD"
     }
   ]
 }
