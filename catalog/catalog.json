@@ -3,9 +3,9 @@
     {
       "id": "tt0000001",
       "type": "movie",
-      "name": "Filme Exemplo",
-      "poster": "https://via.placeholder.com/300x450.png?text=Filme+Exemplo",
-      "description": "Um filme de exemplo fornecido pelo add-on Too4YouAll.",
+      "name": "Your Honor",
+      "poster": "https://www.imdb.com/title/tt10169736/mediaviewer/rm1817760001/?ref_=tt_ov_i",
+      "description": "Michael's solution to his blackmail problem",
       "releaseInfo": "2025",
       "genres": ["Ação"]
     }
