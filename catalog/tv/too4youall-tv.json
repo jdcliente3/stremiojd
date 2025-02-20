@@ -1,9 +1,18 @@
 {
   "metas": [
     {
-      "id": "sic",
-      "type": "channel",
-      "name": "SIC",
+      "id": "tt3776668",
+      "type": "movie",
+      "name": "New York Philharmonic Young People's Concerts",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTNhZmE4MDItYTRlNC00YWJhLThmNWYtOTc4MjdmYjVhYzgwXkEyXkFqcGc@._V1_.jpg",
+      "description": "A series of televised classical music concerts.",
+      "releaseInfo": "2025",
+      "genres": ["Ação"]
+    },
+    {
+      "id": "sicc",
+      "type": "TV",
+      "name": "SICb",
       "poster": "https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png"
     }
   ]
