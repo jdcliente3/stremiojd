@@ -1,9 +1,9 @@
 {
   "id": "com.too4youall.movie",
   "name": "Too4YouAll Movie",
-  "description": "Um add-on simples para o Stremio com um catálogo de filmes.",
+  "description": "Um add-on simples para o Stremio com catálogos de filmes e séries.",
   "version": "1.0.0",
-  "types": ["movie"],
+  "types": ["movie", "serie"],
   "resources": ["catalog", "stream"],
   "idPrefixes": ["tt"],
   "catalogs": [
@@ -13,9 +13,9 @@
       "name": "Filmes JD"
     },
     {
-      "type": "series",
-      "id": "too4youall-movies",
-      "name": "Series JD"
+      "type": "serie",
+      "id": "too4youall-series",
+      "name": "Séries JD"
     }
   ]
 }
