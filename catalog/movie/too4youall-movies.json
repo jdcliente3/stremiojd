@@ -1,15 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt7440726",
-      "type": "series",
-      "name": "Your Honor",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMzI5MGIyYjYtOWRhOS00MmU3LThhNDgtYWEzNzAzZGUzZTY2XkEyXkFqcGc@._V1_.jpg",
-      "description": "Um filme de exemplo fornecido pelo add-on Too4YouAll.",
-      "releaseInfo": "2025",
-      "genres": ["Ação"]
-    },
-    {
       "id": "tt3776668",
       "type": "movie",
       "name": "New York Philharmonic Young People's Concerts",
