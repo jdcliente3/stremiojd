@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "url": "http://cord-cutter.net:8080/series/bo1904706@gmail.com/b7QadZgQdW/188586.mp4",
+      "title": "Your Honor",
+      "behaviorHints": {
+        "bingeGroup": "too4youall-movie-42464",
+        "filename": "188582.mp4"
+      }
+    }
+  ]
+}
