@@ -8,7 +8,8 @@
       "description": "Um filme de exemplo fornecido pelo add-on Too4YouAll.",
       "releaseInfo": "2025",
       "genres": ["Ação"]
-
+    }
+    {
       "id": "tt3776668",
       "type": "movie",
       "name": "New York Philharmonic",
