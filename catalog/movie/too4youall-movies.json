@@ -8,14 +8,6 @@
       "description": "Um filme de exemplo fornecido pelo add-on Too4YouAll.",
       "releaseInfo": "2025",
       "genres": ["Ação"]
-
-      "id": "tt3776668",
-      "type": "movie",
-      "name": "New York Philharmonic",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMzI5MGIyYjYtOWRhOS00MmU3LThhNDgtYWEzNzAzZGUzZTY2XkEyXkFqcGc@._V1_.jpg",
-      "description": "A series of televised classical music concerts .",
-      "releaseInfo": "2025",
-      "genres": ["Ação"]
     }
   ]
 }
