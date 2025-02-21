@@ -8,12 +8,6 @@
       "description": "Um filme de exemplo fornecido pelo add-on Too4YouAll.",
       "releaseInfo": "2025",
       "genres": ["Ação"]
-    },
-    {
-      "id": "sic",
-      "type": "TV",
-      "name": "SIC",
-      "poster": "https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png"
     }
   ]
 }
