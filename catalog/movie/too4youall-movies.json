@@ -10,10 +10,13 @@
       "genres": ["Ação"]
     },
     {
-      "id": "sic",
-      "type": "TV",
-      "name": "SIC",
-      "poster": "https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png"
+      "id": "tt8722346",
+      "type": "movie",
+      "name": "Queen & Slim",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTNhZmE4MDItYTRlNC00YWJhLThmNWYtOTc4MjdmYjVhYzgwXkEyXkFqcGc@._V1_.jpg",
+      "description": "A primeira saída de duas pessoas se volta inesperada quando a polícia os deter.",
+      "releaseInfo": "2019",
+      "genres": ["Drama Romance"]
     }
   ]
 }
