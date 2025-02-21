@@ -21,15 +21,6 @@
       "type": "tv",
       "id": "too4youall-tv",
       "name": "TV JD"
-    },
-    {
-      "id": "com.cordcutter.movie",
-      "name": "CordCutter IPTV",
-      "description": "Add-on simples para um stream IPTV específico.",
-      "version": "1.0.0",
-      "types": ["movie"],
-      "resources": ["stream"],
-      "idPrefixes": ["tt"]
     }
   ]
 }
